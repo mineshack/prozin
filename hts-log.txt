@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 05 Aug 2023 21:15:33 at https://comunidademonster.online/presell1/mines/?gclid=EAIaIQobChMIhK3JlJLGgAMVDFKRCh3eHwk_EAAYASAAEgKZL_D_BwE +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://comunidademonster.online/presell1/mines/?gclid=EAIaIQobChMIhK3JlJLGgAMVDFKRCh3eHwk_EAAYASAAEgKZL_D_BwE -O1 "C:\Users\duard\Downloads\HACK MINES 20\DFDSDF" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:15:36	Warning: 	Note: due to https://comunidademonster.online remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+21:15:45	Error: 	"Not Found" (404) at link https://comunidademonster.online/presell1/mines/c (from https://connect.facebook.net/en_US/fbevents.js)
+21:15:45	Error: 	"Not Found" (404) at link https://comunidademonster.online/presell1/mines/POST (from https://connect.facebook.net/en_US/fbevents.js)
+21:15:45	Error: 	"Not Found" (404) at link https://comunidademonster.online/presell1/mines/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+21:15:45	Error: 	"Not Found" (404) at link https://comunidademonster.online/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+21:15:45	Error: 	"Not Found" (404) at link https://comunidademonster.online/presell1/mines/-negative.svg (from https://comunidademonster.online/presell1/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.13.4)
+21:15:45	Error: 	"Not Found" (404) at link https://comunidademonster.online/presell1/mines/OPR/ (from https://comunidademonster.online/presell1/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.13.4)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 seconds : 35 links scanned, 28 files written (2629963 bytes overall) [2428976 bytes received at 202414 bytes/sec], 681595 bytes transferred using HTTP compression in 10 files, ratio 25%, 6.1 requests per connection
+(6 errors, 1 warnings, 0 messages)
